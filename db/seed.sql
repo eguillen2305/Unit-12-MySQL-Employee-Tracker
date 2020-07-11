@@ -25,4 +25,3 @@ VALUES
     ('Sandra', 'Enciso', 2, 1),
     ('Steven', 'Rodriguez', 3, NULL),
     ('Bravo', 'Kao', 4, 3)
-,
