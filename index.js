@@ -47,7 +47,7 @@ async function init() {
             viewEmployees();
     }
 }
-
+  
 
 //Response that I get back build a switch statement. 
 //Switch statement is going to check a response and run the corresponding function
