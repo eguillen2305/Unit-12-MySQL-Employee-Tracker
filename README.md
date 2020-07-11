@@ -10,6 +10,15 @@
 
 Back-end Content Management System for managing a database of employees. Uses node,inquirer, and MySQL
  https://note-taker-app2035.herokuapp.com/
+ 
+## User Story
+```sh
+
+As a business owner
+I want to be able to view and manage the departments, roles, and employees in my company
+So that I can organize and plan my business
+
+```
 
 ## How to use the Application
 
