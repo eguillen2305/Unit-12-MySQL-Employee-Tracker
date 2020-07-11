@@ -4,6 +4,7 @@ const db = require("./db");
 
 
 
+
 init();
 
 async function starterQuestions() {
