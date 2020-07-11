@@ -3,7 +3,6 @@
  
 [![Javascript](https://img.shields.io/badge/Javascript-JS-blue.svg)](https://www.w3schools.com/Js/)
 [![Node.js](https://img.shields.io/badge/Node.js-Node-green.svg)](https://nodejs.org/en/)
-[![Heroku](https://img.shields.io/badge/Heroku-HerokuLink-pink.svg)](https://note-taker-app2035.herokuapp.com/)
 
 
 ## Summary
