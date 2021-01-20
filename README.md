@@ -65,10 +65,8 @@ manager_id - INT to hold reference to another employee that manager of the curre
 3. run the server with `node server.js`
 
 ## Technology Used
- ![](http://williamavasquez.herokuapp.com/img/js.png)
- 
- ![](http://williamavasquez.herokuapp.com/img/node.png)
- 
+JavaScript
+MySQL
 
 
 ## Author
