@@ -66,6 +66,7 @@ manager_id - INT to hold reference to another employee that manager of the curre
 
 ## Technology Used
 JavaScript
+
 MySQL
 
 
